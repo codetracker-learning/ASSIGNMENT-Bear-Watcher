@@ -2,8 +2,37 @@
 @import "~@fortawesome/fontawesome-free/css/all.min.css";
 
 body {
-  background-color: antiquewhite;
+  background-image: url("https://giffiles.alphacoders.com/136/13685.gif");
   color: brown;
   text-align: center;
-  margin-top: 100px;
+  background-size:cover;
+}
+
+.bearzStyles {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.header {
+  font-family: 'Indie Flower', cursive;
+  color: white;
+  margin-top: 150px;
+}
+
+.bearz {
+  margin: 10px;
+  font-family: 'Indie Flower', cursive;
+}
+
+.formStylez {
+ margin: 50px;
+}
+
+.mb-3 {
+  margin-top: 20px;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: 'Indie Flower', cursive;
+  color: white;
 }
